@@ -1,4 +1,4 @@
-# 
+# Atualizado JetBrains WebStorm scripts para Mac OS | Código aberto JetBrains WebStorm scripts para PC Windows. Com gerenciamento de usuários e designer de esquemas — otimizado para máximo desempenho em cada plataforma.
 
 
 
